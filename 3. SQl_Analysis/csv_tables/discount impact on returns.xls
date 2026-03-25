@@ -1,0 +1,6 @@
+discount_group	total_orders	total_returns	return_rate
+High Discount	6373	3296	51.72
+Medium Discount (11-20%)	2064	1004	48.64
+Mild Discount (6-10%)	775	376	48.52
+Low Discount (1-5%)	787	375	47.65
+No Discount	1	1	100

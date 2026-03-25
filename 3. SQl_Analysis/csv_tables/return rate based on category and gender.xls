@@ -1,0 +1,11 @@
+product_category	user_gender	total_orders	total_returns	return_rate
+Books	Male	1020	504	49.41
+Books	Female	1021	530	51.91
+Clothing	Male	982	536	54.58
+Clothing	Female	1018	513	50.39
+Electronics	Male	962	482	50.1
+Electronics	Female	1023	529	51.71
+Home	Male	1027	490	47.71
+Home	Female	1003	505	50.35
+Toys	Male	957	485	50.68
+Toys	Female	987	478	48.43
